@@ -33,8 +33,8 @@ Check out my [GitHub Repositories](https://github.com/yourusername) for a glimps
 ## My Goals
 
 - [ ] Master a new programming language this year.
+- [ ] Get an internship and strengthen my resume 
 - [ ] Contribute to an open-source project related to economic models.
-- [ ] Launch a tech startup that addresses a common pain point in digital education.
 
 
 ### Favorite Quotes
