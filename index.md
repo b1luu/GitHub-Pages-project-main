@@ -14,7 +14,7 @@ Aside from being an aspiring **Software engineer**, I spend a lot of my time com
 4. **Personal Growth:** Each challenge is an opportunity to learn and grow, pushing my limits further.
 5. **Problem Solving:** At its core, software engineering is about finding solutions to complex problems, a puzzle I thoroughly enjoy solving.
 
-### My Interests
+### My Career Related Interests
 
 - **Tech Industry Insights:** Staying updated with the latest trends and innovations.
 - **Systems Design:** Understanding and creating efficient, scalable systems.
