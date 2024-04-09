@@ -19,9 +19,6 @@ Hello there! I'm an aspiring **software engineer** deeply fascinated by the **te
 - **Mathematics:** Applying logical and mathematical principles to solve problems.
 - **Economic Models:** Exploring how economic principles influence technology adoption and impact.
 
-### Projects
-
-Check out my [GitHub Repositories](https://github.com/yourusername) for a glimpse into my work and the problems I'm passionate about solving.
 
 ### Connect With Me
 
