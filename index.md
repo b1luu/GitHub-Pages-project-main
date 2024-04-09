@@ -36,13 +36,6 @@ Check out my [GitHub Repositories](https://github.com/yourusername) for a glimps
 - [ ] Contribute to an open-source project related to economic models.
 - [ ] Launch a tech startup that addresses a common pain point in digital education.
 
-### Gallery
-
-Here's a snapshot of my journey so far:
-
-[Link to an image in your repo](/images/my-journey.jpg)
-
-For more visuals, visit [My Portfolio](portfolio.md).
 
 ### Favorite Quotes
 
