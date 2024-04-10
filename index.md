@@ -1,6 +1,6 @@
 # Welcome to My GitHub User Page
 
-## About Me - The Programmer and The Person
+## About Brandon Luu - The Programmer and The Person
 
 Hello there! I'm an aspiring **software engineer** deeply fascinated by the **tech industry**. My journey in tech is driven by a blend of curiosity, a desire to understand complex systems and design, and a passion for solving challenging problems. Beyond the code, I see software engineering as a canvas for **entrepreneurship**, an avenue for **personal growth**, and a puzzle that blends **math** and **economics** seamlessly.
 
